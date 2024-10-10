@@ -1,3 +1,3 @@
 # phpDemo
 
-##Learning PHP with XAMPP
+## Learning PHP with XAMPP
