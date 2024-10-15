@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Adder</title>
+    <title>Dice</title>
 </head>
 
 <body>
