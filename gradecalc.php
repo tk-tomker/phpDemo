@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Dice</title>
+    <title>GRADE 📉</title>
 </head>
 
 <body>
 
-<form action="adderresult.php" method="POST">
-    No. 1: <input type="text" name="no1"><br>
-    No. 2: <input type="text" name="no2"><br>
+<form action="graderesult.php" method="POST">
+   Analyasis: <input type="number" name="analyasis"><br>
+    Design: <input type="number" name="design"><br>
+    Implementation: <input type="number" name="implementation"><br>
+    Evaluation: <input type="number" name="evaluation"><br><br>
+    
     <input type="submit">
 </form>
 
