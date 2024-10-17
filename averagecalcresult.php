@@ -2,7 +2,6 @@
 <html>
     <body>
     <?php
-    print_r($_POST);
         $times = $_POST['times'];
         $total = 0;
         $number = 0;
